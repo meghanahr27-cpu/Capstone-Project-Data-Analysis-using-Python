@@ -1,4 +1,4 @@
-<h1 align="center">📊 Capstone Project – Data Analysis Using Python & Pandas</h1>
+<h1 align="left">📊 Capstone Project – Data Analysis Using Python & Pandas</h1>
 
 ## 📝 Overview
 
